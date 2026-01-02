@@ -15,9 +15,9 @@ This script automates basic setup of Ubuntu/Debian VPS.
 ---
 You can download and run the script in a single command:
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/rmann0/VPS-Setup-script/main/vps.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/rmann0/VPS-Setup-script/main/setup.sh)
 ```
 or using `wget`:
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/rmann0/VPS-Setup-script/main/vps.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/rmann0/VPS-Setup-script/main/setup.sh)
 ```
